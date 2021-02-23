@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![mike6321's github stats](https://github-readme-stats.vercel.app/api?username=mike6321&show_icons=true&theme=merko)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike6321&repo=github-readme-stats&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
