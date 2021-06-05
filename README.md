@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 * 2018.03 ~ 2021.06 GS ITM 🍀
+* 2021.07 ~         NHN SOFT 🍀
 
 <!--
 **mike6321/mike6321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
