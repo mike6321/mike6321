@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-* 2018.03 ~ 2021.06 GS ITM 🍀
 * 2021.07 ~        NHN SOFT -> NHN FashionGo Korea 🍀
 
 <!--
