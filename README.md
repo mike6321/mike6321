@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-* 2021.07 ~        NHN SOFT -> NHN FashionGo Korea 🍀
+* 2018.03.02 ~ 2021.06.19  GS ITM 🍀
+* 2021.07.19 ~ 2022.04.01  NHN SOFT 🍀
+* 2022.04.01 ~ 2024.06.13  NHN FashionGo Korea 🍀
 
 <!--
 **mike6321/mike6321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
